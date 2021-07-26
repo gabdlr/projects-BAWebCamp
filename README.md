@@ -5,8 +5,8 @@ Adicionalmente se utilizaron HTML5BOILERPLATE https://html5boilerplate.com/ y Ad
 Este sitio es fundamentalmente un CMS con una sección pública y una sección de administración desde la que se pueden crear, actualizar y eliminar los contenidos (CRUD).
 Puede visitar este sitio en http://bawcproject.epizy.com/ .
 
-This web site is part of a course done in Udemy "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL" por Juan Pablo De La Torre Valdez.
-For its developmente were employed PHP, MySQL, JavaScript (jQuery, some js libraries and use of AJAX) CSS3 and of course HTML5.
+This web site is part of a course done in Udemy "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL" by Juan Pablo De La Torre Valdez.
+For its development were employed PHP, MySQL, JavaScript (jQuery, some js libraries and use of AJAX) CSS3 and of course HTML5.
 In addition HTML5BOILERPLATE https://html5boilerplate.com/ and AdminLTE https://adminlte.io/ (includes bootstrap, bower components, etc) were used.
 This web is essentially a CMS with a public section and an administrative section from wich you can craete, updadate and delete contents (CRUD).
 You can visit this site on http://bawcproject.epizy.com/ .
